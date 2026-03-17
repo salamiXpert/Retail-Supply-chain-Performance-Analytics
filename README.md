@@ -22,6 +22,9 @@ This project analyzes retail supply chain data to uncover actionable insights th
 
 <img width="1342" height="605" alt="Retail Supply chain Analytics" src="https://github.com/user-attachments/assets/f1e070d9-99c2-4260-be88-ac8e7b649cce" />
 
+
+<img width="898" height="318" alt="DASHBOARD2" src="https://github.com/user-attachments/assets/3bff46ef-9c71-4da3-9d75-c77f88997b24" />
+
 ---
 
 ## 📈 Key Metrics
